@@ -10,3 +10,5 @@ As soon as I fix some graphical, sound and control bugs I will release first pkg
 You need to have Your Own files of the oryginal game.
 
 Port is mostly based on Dethrace port from Dethrace Labs. 
+
+https://www.youtube.com/watch?v=HO9im9lvJEY
